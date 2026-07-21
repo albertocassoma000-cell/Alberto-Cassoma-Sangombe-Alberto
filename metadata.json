@@ -1,0 +1,6 @@
+{
+  "name": "Vida Saudável",
+  "description": "Plataforma completa de nutrição, saúde e alimentação saudável baseada em IA. Consulte alimentos, faça varreduras por fotos, crie planos e gerencie sua dieta.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
